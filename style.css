@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+header{
+  
+}
+.menu{
+ padding-top: 30px;
+  
+  
+  
+}
+
+
+ul{
+  display: flex;
+  
+}
+
+
+li{
+ padding-right: 25px;
+  margin-right: 25px;
+  list-style-type: none;
+}
+
+
+
+a{
+   text-decoration-line: none;
+  color: blueviolet;
+  font-size: 33px;
+  font-family: monospace;
+}
+.hr{
+  
+  line-height: 4px;
+  width:100%;
+  
+}
+form{
+  padding-left: 20px;
+  display: block;
+  
+}
+.for{
+  
+  height: 100px;
+}
+.btn{
+  
+  margin-top: 20px;
+}
+.ins{
+  border-type:solid;
+  border-radius: 19px;
+  border-color: blue;
+}
